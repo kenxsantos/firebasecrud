@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773504243462",
+    "project_id": "artistcrud-b518e",
+    "storage_bucket": "artistcrud-b518e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773504243462:android:2487cdf7e84d2174d8b087",
+        "android_client_info": {
+          "package_name": "com.example.santos_lab9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFdc5uToBm18l77O_OguZ8rhlobMoWM3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
